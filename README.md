@@ -1,4 +1,4 @@
-Quick Hackintosh Installation Guide for Non-Native i7 Processors
+Quick Hackintosh Installation Guide for Non-Native Processors
 
 This brief guide will help you install macOS on a system with a non-native intel i7 processor.
 Prerequisites
